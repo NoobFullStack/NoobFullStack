@@ -79,9 +79,6 @@ Coding since 2016, I love open source, developer communities, and learning new t
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://graphix.dev">
-    <img src="https://img.shields.io/badge/Website-Graphix.dev-4a6cf7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/dennis-zebregs/">
     <img src="https://img.shields.io/badge/LinkedIn-Dennis%20Zebregs-4a6cf7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
