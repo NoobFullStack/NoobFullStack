@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/github/followers/NoobFullStack?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/NoobFullStack?label=Stars&style=social" />
   <img src="https://img.shields.io/badge/Location-Lisbon,%20Portugal-blue" />
-  <img src="https://img.shields.io/badge/Company-Graphix%20Development-4a6cf7" />
 </p>
 
 ---
@@ -14,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 Hey there! I'm NoobFullStack — a passionate full stack developer based in Lisbon, Portugal.  
-Currently building at [Graphix Development](https://graphix.dev), I specialize in crafting modern web apps, APIs, and scalable cloud solutions.  
+Currently building at [Olympus IQ](https://olympusiq.com), I specialize in crafting modern web apps, APIs, and scalable cloud solutions.  
 Coding since 2016, I love open source, developer communities, and learning new technologies.
 
 ---
