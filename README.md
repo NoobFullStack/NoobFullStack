@@ -6,6 +6,14 @@
 
 ---
 
+## 📊 Overall Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoobFullStack&show_icons=true&theme=radical" alt="GitHub Overall Stats" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -45,14 +53,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Overall Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoobFullStack&show_icons=true&theme=radical" alt="GitHub Overall Stats" />
-</p>
 
 ---
 
