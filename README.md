@@ -72,9 +72,6 @@
 #### 🔥 Streak Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=NoobFullstack&theme=dark&hide_border=true)
 
-#### 📅 Yearly Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoobFullStack&theme=github_dark&hide_border=true)
-
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NoobFullstack&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
