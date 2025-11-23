@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/NoobFullStack?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/NoobFullStack?label=Stars&style=social" />
   <img src="https://img.shields.io/badge/Location-Lisbon,%20Portugal-blue" />
 </p>
 
