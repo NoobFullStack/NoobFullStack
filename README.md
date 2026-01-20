@@ -6,13 +6,12 @@
 ---
 
 # 💫 About Me
-🔭 I’m currently working on innovative solutions at Olympus IQ, focusing on web development and solutions for AI training.
 <br>
-👯 I’m looking to collaborate on open-source tools, web apps, and anything that connects creative ideas with real-world impact.
+🔭 Building scalable web applications and solutions for AI training.
 <br>
-💬 Ask me about full-stack web development, modern JS frameworks, and strategies for building robust applications.
+👯 Collaborate on open-source tools and creative web projects with real-world impact.
 <br>
-⚡ Fun fact: Based in Lisbon, Portugal, I love blending tech with everyday life.
+💬 Full-stack development, modern JS frameworks, and system architecture.
 
 ---
 
